@@ -3,5 +3,5 @@ code-labs
 
 # todo
 
-- some html pages
-- some python scripts
+- some `html` pages
+- some `python` scripts
