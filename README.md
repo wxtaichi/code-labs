@@ -3,6 +3,8 @@ code-labs
 
 # todo
 
-- some `html` pages
-- some `python` scripts
-- some `java` codes
+- some `html` page
+- some `python` script
+- some `java` code
+- some `json` config
+- some `xml` config
