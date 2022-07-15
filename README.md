@@ -6,4 +6,3 @@ code-labs
 - some `html` page
 - some `python` script
 - some `java` code
-- some `json` config
