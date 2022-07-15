@@ -7,3 +7,4 @@ code-labs
 - some `python` script
 - some `java` code
 - some `json` config
+- some `xml` config
